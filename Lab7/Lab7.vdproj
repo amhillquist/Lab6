@@ -167,7 +167,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Lab7"
         "ProductCode" = "8:{A9F681F4-6B1D-45AF-9ADF-479B67EE0354}"
-        "PackageCode" = "8:{8DC9FEE5-82D3-44C4-90B4-D9450AA55643}"
+        "PackageCode" = "8:{9DD7AD18-785B-4121-9B05-2CAF4C96F51F}"
         "UpgradeCode" = "8:{F36C9378-AC16-4035-9011-E3FDFF46F614}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -289,7 +289,7 @@
         {
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_8E0D87386F304DA1B6EDFE251A9C1708"
             {
-            "Name" = "8:Shortcut to Application Folder"
+            "Name" = "8:TipCalculator"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -303,7 +303,7 @@
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_9AAA435077254BC9BF507BFCD7DA6FEE"
             {
-            "Name" = "8:Shortcut to Application Folder"
+            "Name" = "8:TipCalculator"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
